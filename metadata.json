@@ -1,0 +1,6 @@
+{
+  "name": "Chinh Phục Vũ Trụ Toán Học 9 - Game Ôn Tập Giữa HK1",
+  "description": "Game giáo dục ôn tập Toán 9 giữa học kỳ I chuẩn GDPT 2018 và Thông tư 22/2021/TT-BGDĐT. Bản đồ vũ trụ, robot tương tác, ma trận phân hóa 4 mức độ, công thức KaTeX sắc nét và phân tích sai lầm thường gặp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
